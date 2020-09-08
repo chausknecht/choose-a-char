@@ -18,3 +18,7 @@ Therefor neither the use case nor the UI are designed with any benfit for the us
 * flows as asyncronous data sources
 
 Eventually I will show some excerpts of the code as examples for common patterns and also unusual or even smells within the design, as I gradually dive deeper into the framework.
+
+## Impressions
+
+![Main screen](screenshot.png)
