@@ -22,4 +22,3 @@ Eventually I will show some excerpts of the code as examples for common patterns
 ## Impressions
 
 ![Main screen](screenshot.png)
-git pus 
